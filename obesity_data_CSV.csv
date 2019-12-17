@@ -1,0 +1,43 @@
+food_type,times_per_week,number_of_males,number_of_females,Male_percentage,Female_percentage,Total_percentage,Total_number
+Meat/fish,1,8,16,17.8,24.2,21.6,24
+Meat/fish,4,25,36,55.6,54.5,55,61
+Meat/fish,12,10,11,22.2,16.7,18.9,21
+Meat/fish,21,2,3,4.4,4.5,4.5,5
+beans/tofu,1,13,10,28.9,15.2,13.5,23
+beans/tofu,3,24,32,53.3,48.5,50.5,56
+beans/tofu,6,5,10,11.1,15.2,13.5,15
+beans/tofu,7,3,14,6.7,21.2,15.3,17
+milk/milk products,1,21,23,47.7,34.8,40,44
+milk/milk products,3,17,19,38.6,28.8,32.7,36
+milk/milk products,6,5,7,11.4,10.6,10.9,12
+milk/milk products,7,1,17,2.3,25.8,16.4,18
+Green vegetables,1,9,11,20.1,16.8,18,20
+Green vegetables,4,26,28,57.8,42.4,48.6,54
+Green vegetables,14,8,18,17.8,27.3,23.4,26
+Green vegetables,21,2,9,4.4,13.6,9.9,11
+No color vegetables,1,6,1,13.3,1.5,6.3,7
+No color vegetables,4,23,16,51.1,24.2,35.1,39
+No color vegetables,14,10,30,22.2,45.5,36,40
+No color vegetables,21,6,19,13.3,28.8,22.5,25
+Fruits,1,7,7,15.9,10.8,12.8,14
+Fruits,3,15,16,34.1,24.6,28.4,31
+Fruits,6,15,15,34.1,23.1,27.5,30
+Fruits,7,7,27,15.9,41.5,31.3,34
+Grains,1,9,7,20.5,10.8,14.7,16
+Grains,4,15,14,34.1,21.5,26.6,29
+Grains,14,9,20,20.9,30.8,26.6,29
+Grains,21,11,24,25,36.9,32.1,35
+Sweets(n diff),2,NA,NA,NA,NA,21,29
+Sweets,4,NA,NA,NA,NA,79,109
+Coffee,2,NA,NA,NA,NA,81.9,113
+Coffee,4,NA,NA,NA,NA,18.1,25
+Tea,2,NA,NA,NA,NA,37,51
+Tea,4,NA,NA,NA,NA,63,87
+Snacks,2,NA,NA,NA,NA,58,80
+Snacks,4,NA,NA,NA,NA,42,58
+Soft drinks,2,NA,NA,NA,NA,79,109
+Soft drinks,4,NA,NA,NA,NA,21,29
+Pickles,2,NA,NA,NA,NA,30.4,42
+Pickles,4,NA,NA,NA,NA,69.6,96
+Fried food,2,NA,NA,NA,NA,41.3,57
+Fried food,4,NA,NA,NA,NA,58.7,81
